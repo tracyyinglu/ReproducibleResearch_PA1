@@ -1,0 +1,17 @@
+base
+ggplot2
+dplyr
+data.table
+tidyr
+magrittr
+ggpubr
+stringr
+knitr
+directlabels
+pwr
+EnvStats
+gridExtra
+RColorBrewer
+openxlsx
+googledrive
+bindrcpp
